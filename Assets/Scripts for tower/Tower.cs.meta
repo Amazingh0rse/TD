@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68480f8bd2654e647a692ac2e97e44f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cannonballPrefab: {fileID: 768685240921970345, guid: e208b6cbac7464a4ea4ac7907ac0d319,
+      type: 3}
+  - audioSource: {instanceID: 0}
+  - clip: {fileID: 8300000, guid: a7fc703c6fab08344b64a5d242bd7a96, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
