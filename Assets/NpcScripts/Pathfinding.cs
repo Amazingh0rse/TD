@@ -19,7 +19,7 @@ public class Pathfinding : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate ()
     {
-        if (!nav.pathPending && nav.remainingDistance < 0.5f)
+        if (!nav.pathPending && nav.remainingDistance < 4.0f)
   	    GoToNextPoint();
     }
 
