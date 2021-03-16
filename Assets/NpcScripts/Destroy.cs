@@ -17,9 +17,10 @@ public class Destroy : MonoBehaviour
     void OnTriggerEnter(Collider otherObj)
     {
         var enemy = GameObject.FindWithTag("Enemy");
-        
+        // Destroy(enemy);
         if (otherObj.gameObject.tag == "Enemy") {
             Destroy (enemy);
         }
     }
+
 }
