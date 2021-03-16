@@ -14,7 +14,7 @@ public class TowerSpawner : MonoBehaviour
         {
             RaycastHit hit;
 
-            if (Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition), out hit, 300))
+            if (Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition), out hit))
             {
                 Instantiate(towerPrefab, hit.point, Quaternion.identity);
             }
