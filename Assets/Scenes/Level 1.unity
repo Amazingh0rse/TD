@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -10212,6 +10212,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canon Tower 1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 9091467313827865301, guid: 33120a925705da14abb8c3377435d30f,
+        type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300002, guid: 8b85a9c0433fd2c428294a1d33a572b3,
+        type: 2}
     - target: {fileID: 9091467313827865303, guid: 33120a925705da14abb8c3377435d30f,
         type: 3}
       propertyPath: range
@@ -18769,6 +18775,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canon Tower 1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9091467313827865301, guid: 33120a925705da14abb8c3377435d30f,
+        type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300002, guid: 8b85a9c0433fd2c428294a1d33a572b3,
+        type: 2}
     - target: {fileID: 9091467313827865303, guid: 33120a925705da14abb8c3377435d30f,
         type: 3}
       propertyPath: range
