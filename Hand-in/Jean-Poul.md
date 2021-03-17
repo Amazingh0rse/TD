@@ -3,7 +3,7 @@ ___
 
 In our group we have made a tower defence game with a medieval theme. We have made use of Prefabs + parenting, UI, Animations, Animator & IK, Game and level design and finally ragdoll effects from flow 2.
 
-My part in this project was to make a health bar for our enemies while having the health bar follow the main camera view and having the health of an enemy go down when taken damage. On top of that I had to make a ragdoll effect on the enemy when he died and make him despawn after a few seconds. All this is added to an additional zombie enemy. 
+My part in this project was to make a health bar for our enemies while having the health bar follow the main camera view and having the health of an enemy go down when taken damage. On top of that I had to make a ragdoll effect on the enemy when he died and make him despawn after a few seconds. All this is added to an additional zombie enemy as well.
 
 **Software**: Unity and Visual studio code.
 
