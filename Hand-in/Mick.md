@@ -10,7 +10,7 @@ I dette projekt har jeg stået for tårnet med "Shooting & mechanics".
 - Animations, Animator & IK
 - Game Mechanics and Features
 
-![Imgur](https://imgur.com/a/jykuzN3.gif)
+![alt](tower.gif)
 
 Jeg har anvendt prefabs til tårnet som har flere script components til at håndtere "Animation"/transform af kanonen på
 toppen af tårnet.
