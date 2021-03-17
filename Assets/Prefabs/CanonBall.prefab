@@ -4930,6 +4930,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e087562eb9e64d4b9faa7be773f9290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 20
+  speed: 80
   range: 15
   target: {x: 0, y: 0, z: 0}

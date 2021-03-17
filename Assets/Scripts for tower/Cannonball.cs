@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Cannonball : MonoBehaviour
 {
-    public float speed = 10;
+    public float speed = 40;
     public float range = 15f;
 
     //Target (Set by tower)
