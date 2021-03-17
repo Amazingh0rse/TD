@@ -11,7 +11,7 @@ My part in this project was to make a health bar for our enemies while having th
 
 **Work planner**: https://trello.com/b/kZXVMsHW/keen-games
 
-**Stage rules**: Place towers and kill the enemy before they reach the end of the stage.
+**Stage rules**: Place towers and kill the enemies before they reach the end of the stage.
 
 **Component**: <br/>
 
