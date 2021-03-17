@@ -32,7 +32,8 @@ My part in this project was to make a health bar for our enemies while having th
 
 **Scenes**: main scene for the project is called *level 1* under the folder scenes.
 
-**Thoughts**: I had problems since I was not given the NPC enemy i prober time so had to make my own to address the ragdoll effect. Beside that we could have use a bit more time to add the finishing touches such as a point system but that will have to be another time. Other than that we made a really cool game and had fun making it.
+**Thoughts**: I had to make my own NPC (enemy) since I was not given the NPC (enemy) in prober time so had to make my own to address the ragdoll effect. Beside that we could have use a bit more time to add the finishing touches such as a point system but that will have to be another time. It turns out it takes a lot of time to make a game. Other than that we made a really cool game and had fun making it. 
+Side not to you Jesper, we could use a step by step list for the subjects you go through during the classes since some of them are hard to remember.
 
 **Made by**: Jean-Poul Leth-Møller<br/>
 HIGH FIVE!
